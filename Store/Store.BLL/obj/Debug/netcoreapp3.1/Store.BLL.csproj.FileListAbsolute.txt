@@ -1,0 +1,17 @@
+C:\Users\PyakshinaOlga\Source\Repos\Store\Store.BLL\bin\Debug\netcoreapp3.1\Store.BLL.deps.json
+C:\Users\PyakshinaOlga\Source\Repos\Store\Store.BLL\bin\Debug\netcoreapp3.1\Store.BLL.dll
+C:\Users\PyakshinaOlga\Source\Repos\Store\Store.BLL\obj\Debug\netcoreapp3.1\Store.BLL.csprojAssemblyReference.cache
+C:\Users\PyakshinaOlga\Source\Repos\Store\Store.BLL\obj\Debug\netcoreapp3.1\Store.BLL.AssemblyInfoInputs.cache
+C:\Users\PyakshinaOlga\Source\Repos\Store\Store.BLL\obj\Debug\netcoreapp3.1\Store.BLL.AssemblyInfo.cs
+C:\Users\PyakshinaOlga\Source\Repos\Store\Store.BLL\bin\Debug\netcoreapp3.1\Store.BLL.runtimeconfig.json
+C:\Users\PyakshinaOlga\Source\Repos\Store\Store.BLL\bin\Debug\netcoreapp3.1\Store.BLL.runtimeconfig.dev.json
+C:\Users\PyakshinaOlga\Source\Repos\Store\Store.BLL\bin\Debug\netcoreapp3.1\Store.BLL.pdb
+C:\Users\PyakshinaOlga\Source\Repos\Store\Store.BLL\bin\Debug\netcoreapp3.1\Store.DataAccess.dll
+C:\Users\PyakshinaOlga\Source\Repos\Store\Store.BLL\bin\Debug\netcoreapp3.1\Store.Domain.dll
+C:\Users\PyakshinaOlga\Source\Repos\Store\Store.BLL\bin\Debug\netcoreapp3.1\Store.DataAccess.pdb
+C:\Users\PyakshinaOlga\Source\Repos\Store\Store.BLL\bin\Debug\netcoreapp3.1\Store.Domain.pdb
+C:\Users\PyakshinaOlga\Source\Repos\Store\Store.BLL\obj\Debug\netcoreapp3.1\Store.BLL.csproj.CoreCompileInputs.cache
+C:\Users\PyakshinaOlga\Source\Repos\Store\Store.BLL\obj\Debug\netcoreapp3.1\Store.BLL.csproj.CopyComplete
+C:\Users\PyakshinaOlga\Source\Repos\Store\Store.BLL\obj\Debug\netcoreapp3.1\Store.BLL.dll
+C:\Users\PyakshinaOlga\Source\Repos\Store\Store.BLL\obj\Debug\netcoreapp3.1\Store.BLL.pdb
+C:\Users\PyakshinaOlga\Source\Repos\Store\Store.BLL\obj\Debug\netcoreapp3.1\Store.BLL.genruntimeconfig.cache

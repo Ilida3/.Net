@@ -1,0 +1,14 @@
+C:\Users\PyakshinaOlga\Source\Repos\ConsoleApp1\GenericLibrary\obj\Debug\GenericLibrary.csprojAssemblyReference.cache
+C:\Users\PyakshinaOlga\Source\Repos\ConsoleApp1\GenericLibrary\obj\Debug\GenericLibrary.csproj.CoreCompileInputs.cache
+C:\Users\PyakshinaOlga\Source\Repos\ConsoleApp1\GenericLibrary\bin\Debug\GenericLibrary.exe.config
+C:\Users\PyakshinaOlga\Source\Repos\ConsoleApp1\GenericLibrary\bin\Debug\GenericLibrary.exe
+C:\Users\PyakshinaOlga\Source\Repos\ConsoleApp1\GenericLibrary\bin\Debug\GenericLibrary.pdb
+C:\Users\PyakshinaOlga\Source\Repos\ConsoleApp1\GenericLibrary\obj\Debug\GenericLibrary.exe
+C:\Users\PyakshinaOlga\Source\Repos\ConsoleApp1\GenericLibrary\obj\Debug\GenericLibrary.pdb
+C:\Users\PyakshinaOlga\Source\Repos\Tasks\GenericLibrary\bin\Debug\GenericLibrary.exe.config
+C:\Users\PyakshinaOlga\Source\Repos\Tasks\GenericLibrary\bin\Debug\GenericLibrary.exe
+C:\Users\PyakshinaOlga\Source\Repos\Tasks\GenericLibrary\bin\Debug\GenericLibrary.pdb
+C:\Users\PyakshinaOlga\Source\Repos\Tasks\GenericLibrary\obj\Debug\GenericLibrary.csprojAssemblyReference.cache
+C:\Users\PyakshinaOlga\Source\Repos\Tasks\GenericLibrary\obj\Debug\GenericLibrary.csproj.CoreCompileInputs.cache
+C:\Users\PyakshinaOlga\Source\Repos\Tasks\GenericLibrary\obj\Debug\GenericLibrary.exe
+C:\Users\PyakshinaOlga\Source\Repos\Tasks\GenericLibrary\obj\Debug\GenericLibrary.pdb

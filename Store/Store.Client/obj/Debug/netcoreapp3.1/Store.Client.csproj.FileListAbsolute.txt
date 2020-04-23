@@ -1,0 +1,9 @@
+C:\Users\PyakshinaOlga\Source\Repos\Store\Store.Client\bin\Debug\netcoreapp3.1\Store.Client.deps.json
+C:\Users\PyakshinaOlga\Source\Repos\Store\Store.Client\bin\Debug\netcoreapp3.1\Store.Client.dll
+C:\Users\PyakshinaOlga\Source\Repos\Store\Store.Client\bin\Debug\netcoreapp3.1\Store.Client.pdb
+C:\Users\PyakshinaOlga\Source\Repos\Store\Store.Client\obj\Debug\netcoreapp3.1\Store.Client.csprojAssemblyReference.cache
+C:\Users\PyakshinaOlga\Source\Repos\Store\Store.Client\obj\Debug\netcoreapp3.1\Store.Client.csproj.CoreCompileInputs.cache
+C:\Users\PyakshinaOlga\Source\Repos\Store\Store.Client\obj\Debug\netcoreapp3.1\Store.Client.AssemblyInfoInputs.cache
+C:\Users\PyakshinaOlga\Source\Repos\Store\Store.Client\obj\Debug\netcoreapp3.1\Store.Client.AssemblyInfo.cs
+C:\Users\PyakshinaOlga\Source\Repos\Store\Store.Client\obj\Debug\netcoreapp3.1\Store.Client.dll
+C:\Users\PyakshinaOlga\Source\Repos\Store\Store.Client\obj\Debug\netcoreapp3.1\Store.Client.pdb

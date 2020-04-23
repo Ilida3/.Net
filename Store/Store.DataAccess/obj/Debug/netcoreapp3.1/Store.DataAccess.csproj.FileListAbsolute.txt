@@ -1,0 +1,15 @@
+C:\Users\PyakshinaOlga\Source\Repos\Store\Store.DataAccess\bin\Debug\netcoreapp3.1\Store.DataAccess.deps.json
+C:\Users\PyakshinaOlga\Source\Repos\Store\Store.DataAccess\bin\Debug\netcoreapp3.1\Store.DataAccess.dll
+C:\Users\PyakshinaOlga\Source\Repos\Store\Store.DataAccess\obj\Debug\netcoreapp3.1\Store.DataAccess.csprojAssemblyReference.cache
+C:\Users\PyakshinaOlga\Source\Repos\Store\Store.DataAccess\obj\Debug\netcoreapp3.1\Store.DataAccess.AssemblyInfoInputs.cache
+C:\Users\PyakshinaOlga\Source\Repos\Store\Store.DataAccess\obj\Debug\netcoreapp3.1\Store.DataAccess.AssemblyInfo.cs
+C:\Users\PyakshinaOlga\Source\Repos\Store\Store.DataAccess\bin\Debug\netcoreapp3.1\Store.DataAccess.runtimeconfig.json
+C:\Users\PyakshinaOlga\Source\Repos\Store\Store.DataAccess\bin\Debug\netcoreapp3.1\Store.DataAccess.runtimeconfig.dev.json
+C:\Users\PyakshinaOlga\Source\Repos\Store\Store.DataAccess\obj\Debug\netcoreapp3.1\Store.DataAccess.genruntimeconfig.cache
+C:\Users\PyakshinaOlga\Source\Repos\Store\Store.DataAccess\bin\Debug\netcoreapp3.1\Store.DataAccess.pdb
+C:\Users\PyakshinaOlga\Source\Repos\Store\Store.DataAccess\bin\Debug\netcoreapp3.1\Store.Domain.dll
+C:\Users\PyakshinaOlga\Source\Repos\Store\Store.DataAccess\bin\Debug\netcoreapp3.1\Store.Domain.pdb
+C:\Users\PyakshinaOlga\Source\Repos\Store\Store.DataAccess\obj\Debug\netcoreapp3.1\Store.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\PyakshinaOlga\Source\Repos\Store\Store.DataAccess\obj\Debug\netcoreapp3.1\Store.DataAccess.csproj.CopyComplete
+C:\Users\PyakshinaOlga\Source\Repos\Store\Store.DataAccess\obj\Debug\netcoreapp3.1\Store.DataAccess.dll
+C:\Users\PyakshinaOlga\Source\Repos\Store\Store.DataAccess\obj\Debug\netcoreapp3.1\Store.DataAccess.pdb
